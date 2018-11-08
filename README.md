@@ -5,7 +5,7 @@
 下载后，解压并上传到已经搭建好 PHP环境 的服务器中，然后就可以上传文件和创建文件夹了！
 
 - Github打包：https://github.com/HeroSixo4/DirectoryLister/master.zip
-
+- git clone https://github.com/HeroSixo4/DirectoryLister.git
 #### 文件结构
 `/home/wwwroot/xxx.xx`
 ``` bash
