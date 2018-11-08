@@ -65,7 +65,7 @@ sed -i 's/,scandir//g' /usr/local/php/etc/php.ini
 修改头部导航标题，搜索 `Pocket` 替换。  
 `/resources/DirectoryLister.php `
 
-修改网站标签栏的标题， `<title>` 标签中的` Pocket `替换。  
+修改网站标签栏的标题， 将`<title>` 标签中的` Pocket `替换。  
 `/resources/themes/bootstrap/index.php `
 
 修改网站顶部公告栏内容，搜索 `Top bulletin board`替换。  
